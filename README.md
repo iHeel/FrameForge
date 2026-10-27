@@ -4,6 +4,14 @@
 
 **Smoother motion. More control. On your computer.**
 
+## Get the full version
+
+**[Get FrameForge Full on Patreon →](https://www.patreon.com/c/iHeel)**
+
+Want batch processing, additional AI models, higher interpolation and upscaling factors, and supported NVIDIA CUDA options? Choose an eligible membership on **iHeel’s Patreon** for access to the full edition when released. Visit Patreon for current availability and membership benefits.
+
+FrameForge is one of iHeel’s projects; the Patreon also supports future projects.
+
 > **Release preparation in progress:** installer downloads have not been published yet.
 
 FrameForge Free is a Windows desktop application for video interpolation, slow motion and image enhancement. Try the core workflow without a subscription, watermark or edition-imposed duration limit.
