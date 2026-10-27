@@ -4,6 +4,14 @@
 
 **Smoother motion. More control. On your computer.**
 
+## Available in 6 languages
+
+The application, installer and uninstaller support all six languages.
+
+| <img src="assets/flags/brasil.svg" width="36" height="24" alt="Brazil"> | <img src="assets/flags/estados-unidos.svg" width="36" height="24" alt="United States"> | <img src="assets/flags/espanha.svg" width="36" height="24" alt="Spain"> | <img src="assets/flags/russia.svg" width="36" height="24" alt="Russia"> | <img src="assets/flags/franca.svg" width="36" height="24" alt="France"> | <img src="assets/flags/alemanha.svg" width="36" height="24" alt="Germany"> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Português (Brasil) | English | Español | Русский | Français | Deutsch |
+
 ## Get the full version
 
 **[Get FrameForge Full on Patreon →](https://www.patreon.com/c/iHeel)**
