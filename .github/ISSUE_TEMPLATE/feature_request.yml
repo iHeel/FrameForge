@@ -1,0 +1,16 @@
+name: Feature suggestion
+description: Suggest an improvement for FrameForge.
+title: "[Idea] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested behavior or workflow
+    validations:
+      required: true

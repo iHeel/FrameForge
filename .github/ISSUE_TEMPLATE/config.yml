@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private support
+    url: mailto:iheel.support@gmail.com
+    about: Use email for private files or sensitive security reports.
+  - name: More projects and the full edition
+    url: https://www.patreon.com/c/iHeel
+    about: Follow development and support iHeel's projects.

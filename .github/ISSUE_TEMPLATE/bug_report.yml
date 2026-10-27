@@ -1,0 +1,38 @@
+name: Bug report
+description: Report a reproducible problem in FrameForge Free.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not include private videos, passwords or payment information. Remove personal paths from logs."
+  - type: input
+    id: version
+    attributes:
+      label: Version and edition
+      placeholder: FrameForge Free 1.2.0
+    validations:
+      required: true
+  - type: textarea
+    id: hardware
+    attributes:
+      label: Windows, GPU and driver
+      placeholder: Windows version, GPU model, vendor driver version
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps, selected model and settings
+      description: Include clip/block mode, source resolution and FPS, and output factor.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Error text or sanitized logs
