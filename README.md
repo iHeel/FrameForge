@@ -8,7 +8,7 @@
 
 The application, installer and uninstaller support all six languages.
 
-| <img src="assets/flags/brasil.svg" width="36" height="24" alt="Brazil"> | <img src="assets/flags/estados-unidos.svg" width="36" height="24" alt="United States"> | <img src="assets/flags/espanha.svg" width="36" height="24" alt="Spain"> | <img src="assets/flags/russia.svg" width="36" height="24" alt="Russia"> | <img src="assets/flags/franca.svg" width="36" height="24" alt="France"> | <img src="assets/flags/alemanha.svg" width="36" height="24" alt="Germany"> |
+| <img src="assets/flags/brazil.svg" width="36" height="24" alt="Brazil"> | <img src="assets/flags/united-states.svg" width="36" height="24" alt="United States"> | <img src="assets/flags/spain.svg" width="36" height="24" alt="Spain"> | <img src="assets/flags/russia.svg" width="36" height="24" alt="Russia"> | <img src="assets/flags/france.svg" width="36" height="24" alt="France"> | <img src="assets/flags/germany.svg" width="36" height="24" alt="Germany"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Português (Brasil) | English | Español | Русский | Français | Deutsch |
 
