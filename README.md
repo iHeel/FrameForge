@@ -1,5 +1,12 @@
 # FrameForge Free
 
+**[Official website](https://frameforge-7j0.pages.dev)** · **[Full edition on Patreon](https://www.patreon.com/iHeel/posts/frameforge-1-2-1-173565197)**
+
+## 1.2.1 — Upscaling reliability update
+
+A reported Vulkan upscaling failure was reproduced and fixed. The update lowers GPU memory pressure, detects model errors that previously returned success, and retries with smaller tiles. AI preview and export share the correction. See [the changelog](CHANGELOG.md) for validation details. The Full update is available on Patreon; the Free release remains in preparation.
+
+
 ![FrameForge Free](assets/banner.png)
 
 **Smoother motion. More control. On your computer.**
@@ -16,7 +23,7 @@ The application, installer and uninstaller support all six languages.
 
 **[Get FrameForge Full on Patreon →](https://www.patreon.com/c/iHeel)**
 
-Want batch processing, additional AI models, higher interpolation and upscaling factors, and supported NVIDIA CUDA options? Choose an eligible membership on **iHeel’s Patreon** for access to the full edition when released. Visit Patreon for current availability and membership benefits.
+Want batch processing, additional AI models, higher interpolation and upscaling factors, and supported NVIDIA CUDA options? Choose an eligible membership on **iHeel’s Patreon** for access to the full edition. Visit Patreon for current availability and membership benefits.
 
 FrameForge is one of iHeel’s projects; the Patreon also supports future projects.
 
@@ -52,7 +59,7 @@ Available interface and installer languages: **English, Portuguese (Brazil), Spa
 
 ## Installing
 
-1. Open **Releases** on this repository, choose the latest Free release and download **FrameForge-Free-1.2.0-Setup.exe**. The automatic “Source code” archives contain this distribution repository, not the application installer.
+1. Open **Releases** on this repository, choose the latest Free release and download **FrameForge-Free-1.2.1-Setup.exe**. The automatic “Source code” archives contain this distribution repository, not the application installer.
 2. Run the installer, select the language and review the terms.
 3. Prefer the default installation folder; very long folder paths can exceed Windows/.NET installer limits.
 4. Start FrameForge Free and choose how to download the models.
