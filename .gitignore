@@ -1,0 +1,17 @@
+# This repository is the public documentation/support hub, not the development project.
+*.exe
+*.zip
+*.7z
+*.pkl
+*.pth
+*.bin
+*.mp4
+*.mkv
+*.log
+.venv/
+python/
+runtime/
+work/
+__pycache__/
+.DS_Store
+Thumbs.db

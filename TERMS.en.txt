@@ -1,0 +1,30 @@
+FRAMEFORGE FREE 1.2.0
+
+FrameForge Free · RIFE 4.6 and Real-ESRGAN · one video per task · up to 2×
+No watermark or duration limit. Batch processing, other models and higher factors in the full version.
+
+Publisher: iHeel
+Terms version: October 26, 2026
+
+1. About this version
+FrameForge Free is a local application for video interpolation, slow motion and enhancement. Pricing, access to updates and support conditions will be communicated by the publisher through the purchase channel. This installer does not create a subscription or charge you.
+
+2. Use of videos
+You retain the rights to your files and results. You are responsible for obtaining permission to edit and distribute the content you use. FrameForge Free does not send videos to a remote processing service.
+
+3. Optional models
+Models are not included in the installer. The Model Center presents available packages, original projects and applicable licenses before download. Downloads use third-party services, which receive normal connection data such as your IP address. Models are stored on the selected drive and can be used offline after installation. Permanent availability of third-party servers is not guaranteed.
+
+4. Third-party components
+Python, Qt/PySide6, FFmpeg and the models belong to their respective owners. The original licenses, notices and rights of these components take precedence over these terms. Charging for the application does not change or transfer authorship of the models. See THIRD-PARTY-NOTICES.md and the installation's licenses folder.
+
+5. Free software rights
+These terms do not restrict rights granted by MIT, BSD, Apache, GPL, LGPL or other component licenses. You may replace LGPL libraries with compatible modified versions and perform the reverse engineering necessary to debug those modifications. Libraries are loaded dynamically and are not locked by the application's signature. License notices must be retained where required by the applicable license.
+
+6. Results and requirements
+Processing may create artifacts and cannot guarantee recovery of information missing from the original video. Performance and compatibility depend on the GPU, driver, memory and video. Vulkan mode requires a compatible Vulkan driver. Keep your original files.
+
+7. Legal rights and contact
+Nothing in these terms excludes mandatory consumer rights under applicable law. Support: iheel.support@gmail.com.
+
+By accepting, you acknowledge that you have read these terms. Specific model licenses will be presented separately in the Model Center.
