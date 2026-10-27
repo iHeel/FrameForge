@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" viewBox="0 0 30 20" role="img" aria-label="Bandeira dos Estados Unidos">
+  <path fill="#fff" d="M0 0h30v20H0z"/>
+  <path stroke="#B31942" stroke-width="1.53846" d="M0 .76923h30M0 3.84615h30M0 6.92308h30M0 10h30M0 13.07692h30M0 16.15385h30M0 19.23077h30"/>
+  <path fill="#0A3161" d="M0 0h12v10.76923H0z"/>
+  <defs>
+    <path id="estrela" fill="#fff" d="m0-.4.09.276h.291l-.235.171.09.277L0 .153l-.235.171.09-.277-.235-.171h.29z"/>
+    <g id="seis"><use href="#estrela" x="1"/><use href="#estrela" x="3"/><use href="#estrela" x="5"/><use href="#estrela" x="7"/><use href="#estrela" x="9"/><use href="#estrela" x="11"/></g>
+    <g id="cinco"><use href="#estrela" x="2"/><use href="#estrela" x="4"/><use href="#estrela" x="6"/><use href="#estrela" x="8"/><use href="#estrela" x="10"/></g>
+  </defs>
+  <use href="#seis" y="1.077"/><use href="#cinco" y="2.154"/><use href="#seis" y="3.231"/><use href="#cinco" y="4.308"/><use href="#seis" y="5.385"/><use href="#cinco" y="6.462"/><use href="#seis" y="7.539"/><use href="#cinco" y="8.616"/><use href="#seis" y="9.693"/>
+</svg>
