@@ -4,7 +4,7 @@
 
 ## 1.2.1 — Upscaling reliability update
 
-A reported Vulkan upscaling failure was reproduced and fixed. The update lowers GPU memory pressure, detects model errors that previously returned success, and retries with smaller tiles. AI preview and export share the correction. See [the changelog](CHANGELOG.md) for validation details. The Full update is available on Patreon; the Free release remains in preparation.
+A reported Vulkan upscaling failure was reproduced and fixed. The update lowers GPU memory pressure, detects model errors that previously returned success, and retries with smaller tiles. AI preview and export share the correction. See [the changelog](CHANGELOG.md) for validation details. The Full update is available on Patreon; Free 1.2.1 is now publicly available on GitHub and itch.io.
 
 
 ![FrameForge Free](assets/banner.png)
@@ -27,7 +27,13 @@ Want batch processing, additional AI models, higher interpolation and upscaling 
 
 FrameForge is one of iHeel’s projects; the Patreon also supports future projects.
 
-> **Release preparation in progress:** installer downloads have not been published yet.
+## Download Free 1.2.1
+
+**[Download for Windows x64 →](https://github.com/iHeel/FrameForge/releases/download/free-v1.2.1/FrameForge-Free-1.2.1-Setup.exe)**
+
+[Release notes and checksums](https://github.com/iHeel/FrameForge/releases/tag/free-v1.2.1) · [itch.io](https://iheel.itch.io/frameforge-free) · [Watch real comparisons on the website](https://frameforge-7j0.pages.dev/#results)
+
+The website includes actual Free exports: 480p→960p upscaling, 15→30 FPS interpolation, 15→30→60 FPS through two 2× passes, and 2× slow motion. The clips play directly on the page.
 
 FrameForge Free is a Windows desktop application for video interpolation, slow motion and image enhancement. Try the core workflow without a subscription, watermark or edition-imposed duration limit.
 
